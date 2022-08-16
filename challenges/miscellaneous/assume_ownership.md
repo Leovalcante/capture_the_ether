@@ -25,4 +25,4 @@ contract AssumeOwnershipChallenge {
 Enjoy this inspirational music while you work: [Owner Of A Lonely Heart](https://youtu.be/ytc4_JJWqMQ).
 
 
-Solution: Typo in the constructor name, basta richiamare la funzione e gg.
+Solution: Typo in the constructor name, call the function and gg.

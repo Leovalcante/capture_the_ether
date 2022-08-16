@@ -51,5 +51,7 @@ Note: https://docs.soliditylang.org/en/v0.4.24/units-and-global-variables.html#b
 `block.blockhash(blockno)` if `blockno` is older than 256 blocks the function returns 0:
 
 > The block hashes are not available for all blocks for scalability reasons. You can only access the hashes of the most recent 256 blocks, all other values will be zero
+
+
 We lock 0x0000000000000000000000000000000000000000000000000000000000000000 then we wait 256 blocks
 
